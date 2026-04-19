@@ -1,0 +1,8 @@
+# Ignore Windows thumbnail cache files
+**/Thumbs.db
+
+# Misc
+**/.claude/
+
+# Exclude CTB plot style file
+target.ctb
