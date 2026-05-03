@@ -3,6 +3,8 @@
 
 A Python script that reads an AutoCAD plot style file (`.ctb`) and generates an AutoLISP routine that draws a visual penweight legend directly in your drawing, one line per ACI color, ordered thinnest to thickest, with color and lineweight labels.
 
+🎥 [Watch a YouTube demo](https://www.youtube.com/watch?v=n-d_RphQaOo)
+
 ## How It Works
 
 ```
